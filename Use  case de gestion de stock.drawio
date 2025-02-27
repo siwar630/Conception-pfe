@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="wsEKcAVBClS9da3-mRuH">
-    <mxGraphModel>
+    <mxGraphModel dx="1612" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="570" width="830" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;Gestion du stock&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="610" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Gérer les commandes de médicaments&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="900" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-5" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Vérifier la disponibilité d’un médicament&lt;/font&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="740" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-6" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Mettre à jour le stock&amp;nbsp;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="820" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-7" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Gérer le stock des médicaments&lt;/font&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="830" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-8" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-6" target="48-Aym-XiQEV3dNeDRPB-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1560" y="1020" as="sourcePoint" />
+            <mxPoint x="1720" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-9" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-5" target="48-Aym-XiQEV3dNeDRPB-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1560" y="1020" as="sourcePoint" />
+            <mxPoint x="1720" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-10" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=0.939;entryY=0.776;entryDx=0;entryDy=0;exitX=0.025;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-4" target="48-Aym-XiQEV3dNeDRPB-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1560" y="1020" as="sourcePoint" />
+            <mxPoint x="1720" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-11" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Alerter un stock faible&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="980" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-12" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.562;exitY=0.035;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.623;entryY=0.955;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-11" target="48-Aym-XiQEV3dNeDRPB-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1460" y="1110" as="sourcePoint" />
+            <mxPoint x="1620" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-11" target="48-Aym-XiQEV3dNeDRPB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="48-Aym-XiQEV3dNeDRPB-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="955" y="860" as="sourcePoint" />
+            <mxPoint x="1550" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-15" value="&lt;b&gt;Pharmacien&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="930" y="830" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-21" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1300" y="1200" as="sourcePoint" />
+            <mxPoint x="1329.852813742385" y="1127.5735931288077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-22" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1340" y="1230" as="sourcePoint" />
+            <mxPoint x="1365" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="48-Aym-XiQEV3dNeDRPB-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1341.3059437653642" y="1205.7951295411087" as="sourcePoint" />
+            <mxPoint x="1370" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="48-Aym-XiQEV3dNeDRPB-2" target="48-Aym-XiQEV3dNeDRPB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-26" value="&lt;br&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Envoyer une alerte de rupture de stock&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1150" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-27" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-28" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="48-Aym-XiQEV3dNeDRPB-27">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="48-Aym-XiQEV3dNeDRPB-29" value="ActorName" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingBottom=4;fontStyle=1" vertex="1" parent="48-Aym-XiQEV3dNeDRPB-27">
+          <mxGeometry y="20" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
