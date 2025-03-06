@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="u_Z78-zBwKize9A98fTc">
-    <mxGraphModel dx="1840" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="8F5OMPCy04fyyseZWVCi-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Gerer des patients&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="460" y="510" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8F5OMPCy04fyyseZWVCi-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Authentification&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="8F5OMPCy04fyyseZWVCi-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Authentification&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="750" y="310" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8F5OMPCy04fyyseZWVCi-18" value="«interface»&lt;br&gt;&lt;b&gt;Service d&#39;authentification (SA)&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
