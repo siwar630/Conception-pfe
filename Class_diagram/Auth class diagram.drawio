@@ -1,17 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="991" dy="2695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="uYm5DtO2WQgS1weStodE-279" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1530" y="-1190" width="1290" height="1670" as="geometry" />
-        </mxCell>
-        <mxCell id="uYm5DtO2WQgS1weStodE-1" value="" style="shape=card;whiteSpace=wrap;html=1;rotation=-90;direction=east;flipV=1;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1700" y="-1402" width="40" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="uYm5DtO2WQgS1weStodE-2" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Authentication-service -DC&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="-1220" width="310" height="30" as="geometry" />
+          <mxGeometry x="1550" y="-1190" width="1230" height="1670" as="geometry" />
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-3" value="Entites" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" width="740" height="444" as="geometry" />
@@ -140,7 +134,7 @@
           <mxGeometry x="20" y="44" width="120" height="126" as="geometry" />
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-72" value="DTOs" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2370" y="-1080" width="410" height="362" as="geometry" />
+          <mxGeometry x="2349" y="-1080" width="410" height="362" as="geometry" />
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-73" value="&lt;span style=&quot;text-align: left; font-weight: normal;&quot;&gt;&amp;nbsp;UserRequestDTO&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="uYm5DtO2WQgS1weStodE-72">
           <mxGeometry x="250" y="180" width="130" height="128" as="geometry">
@@ -193,7 +187,7 @@
           <mxGeometry y="70" width="170" height="8" as="geometry" />
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-100" value="Services" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1610" y="-680" width="1010" height="470" as="geometry" />
+          <mxGeometry x="1570" y="-650" width="990" height="410" as="geometry" />
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-165" value="«interface»&lt;br&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;UserService&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="uYm5DtO2WQgS1weStodE-100">
           <mxGeometry x="110" y="70" width="170" height="59" as="geometry" />
@@ -319,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-204" value="Repositories" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1640" y="-270" width="640" height="180" as="geometry" />
+          <mxGeometry x="1680" y="-180" width="640" height="180" as="geometry" />
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-215" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;UserRepository&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uYm5DtO2WQgS1weStodE-204">
           <mxGeometry x="10" y="40" width="280" height="120" as="geometry" />
@@ -372,9 +366,9 @@
             <mxPoint x="2240" y="89" as="sourcePoint" />
             <mxPoint x="2647" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2480" y="-660" />
-              <mxPoint x="2647" y="-660" />
-              <mxPoint x="2640" y="-10" />
+              <mxPoint x="2459" y="-650" />
+              <mxPoint x="2630" y="-650" />
+              <mxPoint x="2640" y="-2" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -392,7 +386,7 @@
             <mxPoint x="2470" y="-900" as="sourcePoint" />
             <mxPoint x="2470" y="-838" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2685" y="-1120" />
+              <mxPoint x="2664" y="-1120" />
               <mxPoint x="2150" y="-1120" />
             </Array>
           </mxGeometry>
@@ -402,7 +396,7 @@
             <mxPoint x="2460" y="-890" as="sourcePoint" />
             <mxPoint x="2460" y="-828" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2445" y="-900" />
+              <mxPoint x="2420" y="-900" />
               <mxPoint x="1810" y="-900" />
             </Array>
           </mxGeometry>
@@ -470,6 +464,12 @@
         </mxCell>
         <mxCell id="uYm5DtO2WQgS1weStodE-250" value="+ corsFilter(): CorsFilter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="uYm5DtO2WQgS1weStodE-248">
           <mxGeometry y="34" width="160" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uYm5DtO2WQgS1weStodE-283" value="" style="shape=card;whiteSpace=wrap;html=1;rotation=90;flipV=1;flipH=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1694" y="-1366" width="30" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uYm5DtO2WQgS1weStodE-2" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Authentication-service -DC&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1549" y="-1210" width="310" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
