@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.2.0">
   <diagram name="Page-1" id="Hgk5A8NGxYXcA8wS1fOd">
     <mxGraphModel dx="2589" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="_czRCyyz4stW_Tamthie-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="600" y="50" width="920" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="_czRCyyz4stW_Tamthie-4" value="&lt;b&gt;&lt;font&gt;UC diagram : Notification-service&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="_czRCyyz4stW_Tamthie-4" value="&lt;b&gt;&lt;font&gt;Notification Management use Case&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="862.5" y="80" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_czRCyyz4stW_Tamthie-6" value="Send treatment reminder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" parent="1" vertex="1">
