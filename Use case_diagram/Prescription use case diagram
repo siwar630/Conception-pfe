@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.2.0">
   <diagram name="Page-1" id="0JIAgUjjWgJBu7_mgAuX">
-    <mxGraphModel dx="1707" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2589" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UCMtOhngePiE-J0gadMm-1" value="" style="html=1;whiteSpace=wrap;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="860" y="480" width="720" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="UCMtOhngePiE-J0gadMm-2" value="&lt;b&gt;&lt;font&gt;UC diagram : Prescription-service&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="510" width="390" height="30" as="geometry" />
+        <mxCell id="UCMtOhngePiE-J0gadMm-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Prescription Management use case&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="510" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UCMtOhngePiE-J0gadMm-3" value="&lt;b&gt;&lt;font&gt;Doctor&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="710" y="770" width="50" height="75" as="geometry" />
@@ -142,13 +142,13 @@
             <mxPoint x="1010" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eAu8TRGyiVxp22RGbO61-1" value="Download report" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="eAu8TRGyiVxp22RGbO61-1" value="Download report" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="940" y="1222" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eAu8TRGyiVxp22RGbO61-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UCMtOhngePiE-J0gadMm-1" target="UCMtOhngePiE-J0gadMm-1">
+        <mxCell id="eAu8TRGyiVxp22RGbO61-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UCMtOhngePiE-J0gadMm-1" target="UCMtOhngePiE-J0gadMm-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eAu8TRGyiVxp22RGbO61-3" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="BX6uH3kPlK13fcNqZQk2-13" target="UCMtOhngePiE-J0gadMm-55">
+        <mxCell id="eAu8TRGyiVxp22RGbO61-3" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=22;" parent="1" source="BX6uH3kPlK13fcNqZQk2-13" target="UCMtOhngePiE-J0gadMm-55" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="850" y="1301" as="sourcePoint" />
             <mxPoint x="1081" y="1210" as="targetPoint" />
