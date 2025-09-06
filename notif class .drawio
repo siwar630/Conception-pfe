@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.2.0">
   <diagram name="Page-1" id="j-TZjf8S6RYhwzULQQCM">
-    <mxGraphModel dx="2373" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
             <mxRectangle x="200" y="60" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p0VomlxSAg0T8OADrMNB-4" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;- id : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - patientId : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - prescriptionId : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - status : TreatmentStatus&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - confirmationDate : LocalDateTime&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - notes : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - reminderSent : boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - createdAt : LocalDateTime&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="p0VomlxSAg0T8OADrMNB-3" vertex="1">
+        <mxCell id="p0VomlxSAg0T8OADrMNB-4" value="&lt;div&gt;- id : String&lt;/div&gt;&lt;div&gt;- senderId : String&lt;/div&gt;&lt;div&gt;- recipientId : String&lt;/div&gt;&lt;div&gt;- message : String&lt;/div&gt;&lt;div&gt;- seen : boolean&lt;/div&gt;&lt;div&gt;- type : NotificationType&lt;/div&gt;&lt;div&gt;- timestamp : LocalDateTime&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="p0VomlxSAg0T8OADrMNB-3" vertex="1">
           <mxGeometry y="26" width="230" height="164" as="geometry" />
         </mxCell>
         <mxCell id="p0VomlxSAg0T8OADrMNB-7" value="DTOs" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
