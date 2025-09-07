@@ -7,7 +7,7 @@
         <mxCell id="_74iJRGQ5E9wNw4A3LEF-1" value="" style="html=1;whiteSpace=wrap;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="670" y="110" width="920" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="_74iJRGQ5E9wNw4A3LEF-2" value="&lt;b&gt;Patient Follow-up Management use Case&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="_74iJRGQ5E9wNw4A3LEF-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Patient Care Management use Case&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="900" y="150" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_74iJRGQ5E9wNw4A3LEF-3" value="&lt;b&gt;&lt;font&gt;Doctor&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=23;" parent="1" vertex="1">
